@@ -8,8 +8,7 @@ This repository contains the code and analysis for the project . This project fo
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Installation](#installation)
+- [Methodology](#methodolog)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributors](#contributors)
@@ -37,8 +36,4 @@ To achieve our goals, we employed the following methodology:
 
 5. **Interpretation**: Analyzed the model results to gain insights into the relationships between features, customer behavior, and sales.
 
-## Installation
 
-To run the code locally, follow these steps:
-
-1. Clone this repository:
