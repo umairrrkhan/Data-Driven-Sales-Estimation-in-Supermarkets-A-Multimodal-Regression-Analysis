@@ -9,10 +9,7 @@ This repository contains the code and analysis for the project . This project fo
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Methodology](#methodolog)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
+- [Contact](#Contact)
 
 ## Introduction
 
@@ -35,5 +32,9 @@ To achieve our goals, we employed the following methodology:
 4. **Model Evaluation**: Assessed the performance of each model using appropriate evaluation metrics and techniques.
 
 5. **Interpretation**: Analyzed the model results to gain insights into the relationships between features, customer behavior, and sales.
+
+## Contact
+
+- Email : umairh1819@gmail.com
 
 
